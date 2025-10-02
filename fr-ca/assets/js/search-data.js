@@ -452,8 +452,8 @@ ninja.data = [{
           description: "",
           section: "actualités",handler: () => {
               window.location.href = "/fr-ca/news/en-us/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-encouragement-award-of-the-technology-innovation-competition",
+          title: 'Encouragement Award of the Technology Innovation Competition',
           description: "",
           section: "actualités",},{id: "projects-project-7",
           title: 'project 7',
